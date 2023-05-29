@@ -15,7 +15,7 @@ return sum;
         
         int b = sc.nextInt();
         int sum =summynum(a, b);
-        System.out.println("Sum of two number =" + sum);
+        System.out.println("Sum of two number =ssssss" + sum);
 
     }
     
