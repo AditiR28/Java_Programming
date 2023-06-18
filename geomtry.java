@@ -12,10 +12,7 @@ class geomtry{
         System.out.println("Enter a rectangle number : " );
         int breadth = sc.nextInt();
         area = length*breadth;
-        System.out.println(area);
-       
-
-        
+        System.out.println(area);       
     }
     public void perimeter(){
         Scanner sc = new Scanner(System.in);

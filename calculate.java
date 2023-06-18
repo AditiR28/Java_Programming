@@ -38,7 +38,6 @@ public class calculate{
         int a2 = result.sub(a1, 2);
         int a3 = result.add(a2,2);
         int a4 =result.sub(a3, 2);
-        result.div(a4,2); // void output 
-        
+        result.div(a4,2); 
     }
 }
