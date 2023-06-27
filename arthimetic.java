@@ -1,6 +1,6 @@
 class arthimetic{
     //problem statement (10*2)-2)+2)-2)/2
-    public int sum(int a,int b){
+    public int sum(int a,int b){// non void default parameter
         int c;
         c=a+b;
         System.out.println("Sum Result "+c);
@@ -21,7 +21,7 @@ class arthimetic{
     public void div(int p,int q){ // void method
         
         int div=p/q;
-        System.out.println("Divide "+div);
+        System.out.println("Divide "+div); 
     }
     public static void main(String args[]){
         arthimetic result = new arthimetic();

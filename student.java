@@ -16,6 +16,7 @@ xyz.rollNo = 1;
 xyz. age = 24;
 System.out.println(xyz.rollNo);
 System.out.println(xyz.age);
- }
+ } 
+ 
     
 }
