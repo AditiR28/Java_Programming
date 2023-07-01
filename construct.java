@@ -12,7 +12,9 @@ public construct(int a,int b)
     System.out.println("Two Parameterized constructor");
 }
 public static void main(String args[]){
-    construct obj = new construct(12,23);
+    construct obj =new construct();
+    construct obj1 = new construct(20);
+    construct obj2 = new construct(12,23);
        
 
 

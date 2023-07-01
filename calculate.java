@@ -28,7 +28,7 @@ public class calculate{
     {
         
         int div = x/y;
-        System.out.println("Divide" +div);
+        System.out.println("Divide " +div);
         
     }
      
