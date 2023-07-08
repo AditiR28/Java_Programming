@@ -1,7 +1,7 @@
 public class laptop extends phone{
     public laptop()
     {
-        super(12, 24);
+        super(12,24);
         System.out.println("Child Default Constructor");
     }
      public laptop(int a)
