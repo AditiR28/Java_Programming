@@ -13,7 +13,7 @@ public class staticoverload {
     public static void main(String args[]){
         staticoverload obj1= new staticoverload();
         obj1.arthimetic(12,24);
-        obj1.arthimetic(12,24,36);
+        obj1.arthimetic(12,24,36); // method overloading concept ..it is called static polymorphism
 
     }
 }
